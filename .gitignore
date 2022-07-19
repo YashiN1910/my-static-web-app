@@ -3,10 +3,6 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
-# add by koyama
-angular-app
-react-app
-svelte-app
 
 
 # User-specific files
